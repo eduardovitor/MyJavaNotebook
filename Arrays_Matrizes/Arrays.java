@@ -1,3 +1,4 @@
+package Arrays_Matrizes;
 public class Arrays {
     public static double mediaInteiros(int[] inteiros){
         int soma = 0;

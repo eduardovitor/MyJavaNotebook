@@ -1,3 +1,4 @@
+package Arrays_Matrizes;
 public class Matrizes {
     public static void main(String[] args) {
         int linhas = 5;

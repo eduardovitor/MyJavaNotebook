@@ -1,3 +1,4 @@
+package Excecoes;
 public class OrdemCapturaExcecoes {
     public static void main(String[] args) {
         try {

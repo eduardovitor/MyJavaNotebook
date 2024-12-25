@@ -1,3 +1,4 @@
+package Excecoes;
 public class TratoExcecao {
     public static void main(String args[]) {
         String frase = null;
