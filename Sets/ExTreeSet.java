@@ -5,7 +5,7 @@ public class ExTreeSet {
     public static void main(String[] args) {
         List<String> strList = Arrays.asList("Teste", "Teste", "Asa de Arapiraca", "Festa", "Introvertido");
         Set<String> strSet = new TreeSet<String>(strList); // Consome mais memória que LinkedHashSet
-        strSet.add("Alagoas");
+        strSet.add("Alagoas"); // Mantém a ordem natural dos elementos
         strSet.add("Brasil");
         strSet.remove("Festa");
         System.out.println(strSet);
